@@ -7,7 +7,7 @@ local Keys = {
     ["keydoadapelodono"] = true,
     ["clientehub"] = true,
     ["divulgador"] = true,
-    ["dono"] = true,
+    ["1diafree"] = true,
     ["adminmaster"] = true
 }
 
